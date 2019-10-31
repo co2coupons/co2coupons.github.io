@@ -34,7 +34,7 @@
 
 ## Eine Lösung
 
-- (C1)Es wird demokratisch entschieden, wie schnell der CO2-Ausstoß des
+- (C1) Es wird demokratisch entschieden, wie schnell der CO2-Ausstoß des
   Gemeinwesens auf effektiv Null reduziert werden soll.
   (Beispiel: von 2021 bis 2050).
 - (C2) In diesem Zeitraum sinkt der erlaubte CO2-Ausstoß jährlich um
@@ -45,7 +45,7 @@
   Menge CO2-Ausstoß. 
   Der Gutschein ist nur 2 Jahre lang gültig und
   verfällt danach, wenn er nicht genutzt wird.
-  Der Gutschein kann (aber nur einmal) verkauft werden.
+  Der Gutschein kann verkauft werden, allerdings nur einmal.
 - (C5) Wer CO2-Träger verkaufen will (Öl, Erdgas, Kohle), muss die entsprechende
   Menge Gutscheine kaufen.
 - (C6) Auf welche Weise es möglich ist, durch negativen CO2-Ausstoß, 
@@ -68,6 +68,8 @@
 - (D4) Die Politik kann weiter das tun, was sie besser kann:
   Auf Veränderungen reagieren, um unerwünschte Folgen der Veränderungen
   zu mildern und erwünschte zu fördern.
+- (D5) Wer meint, die Reduktion sei zu langsam, kann Gutscheine kaufen
+  und sie verfallen lassen.
 
 
 ## Nachteile
