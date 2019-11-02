@@ -56,45 +56,64 @@
 - (C6) Auf welche Weise es möglich ist, durch negativen CO2-Ausstoß, 
   also den Entzug von CO2 aus der Atmosphäre,
   zusätzliche Gutscheine zu erschaffen, wird erst geregelt,
-  wenn das Gutscheinsystem vier Jahre lang in Betrieb war,
-  um Schlupflöcher besser vermeiden zu können.
+  wenn das Gutscheinsystem vier Jahre lang in Betrieb war.
+  Anschließend wird geregelt, wie das Klimagas Methan
+  in die Absenkung einbezogen wird.
+
+
+## Auswirkungen
+
+- (D1) Die wirtschaftlichen Wirkungen setzen ganz allmählich ein.
+  - Sie wirken überall, wo direkt oder indirekt CO2-Austoß bewirkt wird
+    (Preisbildung, Marktwirtschaft, Verursacherprinzip), 
+    ohne dass jemand alle Zusammenhänge vorher kennen müsste.
+  - Durch die Bepreisung direkt an der Quelle gibt es keine Schlupflöcher.
+  - Durch die beschränkte Gültigkeitsdauer und den nur einmal erlaubten
+    Verkauf können Spekulationsgeschäfte mit den Gutscheinen nur in
+    geringem Maß stattfinden.
+- (D2) Den Preisanstiegen der Produkte stehen gleich hohe
+  Verkaufserlöse für die Gutscheine gegenüber, die gleichmäßig an
+  die gesamte Bevölkerung fließen.
+  Wer unterdurchschnittlich viel CO2 ausstößt, hat also
+  im Anschluss mehr Geld in der Tasche als zuvor.
+- (D3) Die Politik streitet nicht mehr über die CO2-Reduktion an sich,
+  sondern korrigiert nur wo nötig einige der Wirkungen.
 
 
 ## Vorteile
 
-- (D1) Die Lösung ist fair, einfach und verständlich.
-- (D2) Die komplizierten Veränderungen werden der Selbstorganisation
+- (E1) Die Lösung ist fair, einfach und verständlich.
+- (E2) Die komplizierten Veränderungen werden der Selbstorganisation
   der Gesellschaft überlassen und müssen nicht unter großer Ungewissheit
   politisch ausgehandelt werden.
   Dadurch kann die Lösung für den kompletten Zeitraum der CO2-Reduktion
   zügig in Kraft gesetzt werden.
-- (D3) Das gibt den Menschen, der Wirtschaft und der Politik
+- (E3) Das gibt den Menschen, der Wirtschaft und der Politik
   Planungssicherheit.
-- (D4) Die Politik kann weiter das tun, was sie besser kann:
+- (E4) Die Politik kann weiter das tun, was sie besser kann:
   Auf Veränderungen reagieren, um unerwünschte Folgen der Veränderungen
   zu mildern und erwünschte zu fördern.
-- (D5) Wer meint, die Reduktion sei zu langsam, kann Gutscheine
+- (E5) Wer meint, die Reduktion sei zu langsam, kann Gutscheine
   verfallen lassen.
 
 
 ## Nachteile
 
-- (E1) Wird die Lösung nicht weltweit gleichzeitig eingeführt, liefert sie
+- (F1) Wird die Lösung nicht weltweit gleichzeitig eingeführt, liefert sie
   Akteuren außerhalb des Gemeinwesens Wettbewerbsvorteile.
-  Für den Import in das Gemeinwesen kann man das durch Zölle ausgleichen,
-  die sich am geschätzten CO2-Ausstoß orientieren.
-  Für den Export aus dem Gemeinwesen ginge das nur durch Subvention,
-  was unrealistisch ist und den Zweck untergraben würde.
-  Deshalb ist die Lösung nur für ein Gemeinwesen geeignet, das wenig
-  exportiert oder das selbst sehr groß ist.
-- (E2) Die organisatorische Umsetzung ist nicht ganz einfach. 
+  - Für den Import in das Gemeinwesen kann man das durch Zölle ausgleichen,
+    die sich am geschätzten CO2-Ausstoß orientieren.
+  - Für den Export aus dem Gemeinwesen ginge das nur durch Subvention,
+    was unrealistisch ist und den Zweck untergraben würde.
+  - Deshalb ist die Lösung nur für ein Gemeinwesen geeignet, das wenig
+    exportiert oder das selbst sehr groß ist und Wirtschaftspartner von
+    der Idee überzeugen kann.
+- (F2) Die organisatorische Umsetzung ist nicht ganz einfach. 
   Folgende Probleme müssen gelöst werden:
   - Gutscheine an alle Mitglieder des Gemeinwesens ausgeben.
   - Verkauf der Gutscheine über eine leicht zugängliche Börse ermöglichen.
-  - Produktion und Verkauf der CO2-Träger Erdöl, Erdgas und Kohle
+  - Förderung und Import der CO2-Träger Erdöl, Erdgas und Kohle
     verlässlich überwachen.
-  - Mittelfristig den Ausstoß von Methan in der Landwirtschaft in das
-    System einbeziehen.
 
 -------------------------------------------------------------------------------
 
