@@ -57,8 +57,8 @@
   also den Entzug von CO2 aus der Atmosphäre,
   zusätzliche Gutscheine zu erschaffen, wird erst geregelt,
   wenn das Gutscheinsystem vier Jahre lang in Betrieb war.
-  Anschließend wird geregelt, wie das Klimagas Methan
-  in die Absenkung einbezogen wird.
+  Anschließend wird geregelt, wie andere Treibhausgase wie z.B. Methan und Lachgas
+  in die Absenkung einbezogen werden.
 
 
 ## Auswirkungen
@@ -101,9 +101,10 @@
 
 - (F1) Wird die Lösung nicht weltweit gleichzeitig eingeführt, liefert sie
   Akteuren außerhalb des Gemeinwesens Wettbewerbsvorteile.
-  - Für den Import in das Gemeinwesen kann man das durch Zölle ausgleichen,
+  - Für den _Import_ in das Gemeinwesen kann man das durch Zölle ausgleichen,
     die sich am geschätzten CO2-Ausstoß orientieren.
-  - Für den Export aus dem Gemeinwesen ginge das nur durch Subvention,
+    Zuvor sind bestehende Freihandelsvereinbarungen entsprechend anzupassen.
+  - Für den _Export_ aus dem Gemeinwesen ginge ein Ausgleich nur durch Subvention,
     was unrealistisch ist und den Zweck untergraben würde.
   - Deshalb ist die Lösung nur für ein Gemeinwesen geeignet, das wenig
     exportiert oder das selbst sehr groß ist und Wirtschaftspartner von
