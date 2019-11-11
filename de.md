@@ -164,7 +164,7 @@ Hier die wichtigsten Auswirkungen:
 <footer>
   {{ page.copyright }} &bull; 
   [Impressum]({% link impressum.md %}) &bull; 
-  Letzte Änderung {{ lastchange }} &bull; 
+  Letzte Änderung {{ page.lastchange }} &bull; 
   [Änderungen]({{ page.commits }})
 </footer>
 
