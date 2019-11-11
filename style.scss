@@ -1,3 +1,5 @@
+---
+---
 @charset "utf-8";
 
 // Define defaults for each variable.
@@ -41,9 +43,6 @@ dl, dd, ol, ul, figure {
 }
 
 
-/**
- * Basic styling
- */
 body {
   font: $base-font-weight #{$base-font-size}/#{$base-line-height} $base-font-family;
   color: $text-color;
@@ -59,37 +58,7 @@ body {
   flex-direction: column;
   width: 70ch;
   max-width: 100%;
-  margin: 1ex;
-}
-
-
-img {
-  max-width: 100%;
-  vertical-align: middle;
-}
-
-
-figure > img {
-  display: block;
-}
-
-
-figcaption {
-  font-size: $small-font-size;
-}
-
-
-
-li {
-  > ul,
-  > ol {
-    margin-bottom: 0;
-  }
-}
-
-
-h1, h2, h3, h4, h5, h6 {
-  font-weight: $heavy-font-weight;
+  margin: auto;
 }
 
 
@@ -125,37 +94,43 @@ blockquote {
 }
 
 
-/**
- * Clearfix
- */
-%clearfix:after {
-  content: "";
-  display: table;
-  clear: both;
+footer {
+    padding: 1ex;
+    margin-top: 2ex;
+    background-color: $grey-color-light;
 }
 
 
-
-/**
- * Icons
- */
-.grey {
-  color: $grey-color;
-}
-
-.svg-icon {
-  width: 16px;
-  height: 16px;
-  display: inline-block;
-  fill: currentColor;
-  padding: 5px 3px 2px 5px;
-  vertical-align: text-bottom;
+h1, h2, h3, h4, h5, h6 {
+  font-weight: $heavy-font-weight;
+  color: $grey-color-dark;
+  padding-top: 2ex;
+  padding-bottom: 1ex;
 }
 
 
-/**
- * Tables
- */
+header {
+    padding: 1ex;
+    margin-bottom: 2ex;
+    background-color: $grey-color-light;
+}
+
+img {
+  max-width: 100%;
+  vertical-align: middle;
+}
+
+
+li {
+    margin: 0.5ex 0 0.5ex 3ch;
+}
+
+
+p {
+    margin: 0.8ex 0 0.8ex 0;
+}
+
+
 table {
   margin-bottom: $spacing-unit;
   width: 100%;
@@ -181,14 +156,39 @@ table {
   }
 }
 
-.header {
-    padding: 1ex;
-    margin-bottom: 2ex;
-    background-color: $grey-color-light;
+
+ul {
+    list-style: square outside;
 }
 
-.footer {
-    padding: 1ex;
-    margin-top: 2ex;
-    background-color: $grey-color-light;
+ul > ul {
+    content: "&#9643;"
+}
+
+
+/**
+ * Clearfix
+ */
+%clearfix:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+
+
+/**
+ * Icons
+ */
+.grey {
+  color: $grey-color;
+}
+
+.svg-icon {
+  width: 16px;
+  height: 16px;
+  display: inline-block;
+  fill: currentColor;
+  padding: 5px 3px 2px 5px;
+  vertical-align: text-bottom;
 }

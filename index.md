@@ -1,5 +1,10 @@
-[Deutsch](de.md)
+---
+layout: default
+---
+<header>
+# CO2 Coupons
+</header>
 
-[English](en.md)
-
-[Francais](fr.md)
+## [Deutsch]({% link de.md %})
+## [English]({% link en.md %})
+## [Francais]({% link fr.md %})

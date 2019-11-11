@@ -1,10 +1,25 @@
+---
+layout:        default
+lastchange:    2019-11-11
+---
+<header>
+  [English]({% link en.md %}) &bull;  [Francais]({% link fr.md %})
+</header>
 
 # Die Klemme in der Klimapolitik ist lösbar!
 
 ...indem wir erst mal nur das größte Problem lösen,
 nicht gleich alle zusammen.
 
-## Wie es heute ist
+Inhalt:
+1. [Wie es heute ist](#heute)
+1. [Lösungsvorschlag: CO2-Gutscheine](#vorschlag)
+1. [Zu erwartende Auswirkungen](#wirkungen)
+1. [Weitere Nachteile](#nachteile)
+1. [Weitere Vorteile](#vorteile)
+
+
+## <a name="heute"></a>Wie es heute ist
 
 - (A1) Seit längerem steigt weltweit die Durschnittstemperatur an,
   weil der CO2-Gehalt in der Atmosphäre zunimmt.
@@ -27,7 +42,7 @@ akzeptabel ist.
 
 Hier ist ein solcher Vorschlag für die EU-Ebene:
 
-## Lösungsvorschlag: CO2-Gutscheine
+## <a name="vorschlag"></a>Lösungsvorschlag: CO2-Gutscheine
 
 - (B1) Die EU entscheidet gemeinsam, wie schnell der CO2-Ausstoß 
   auf effektiv Null reduziert werden soll.
@@ -59,7 +74,7 @@ Hier ist ein solcher Vorschlag für die EU-Ebene:
 Das war's schon.
 
 
-## Zu erwartende Auswirkungen
+## <a name="wirkungen"></a>Zu erwartende Auswirkungen
 
 Die Lösung ist fair, einfach und verständlich.
 Sie wird sehr vielen Leuten einleuchten und kann deshalb einen starken
@@ -122,7 +137,7 @@ Hier die wichtigsten Auswirkungen:
   Zins steigen. Sparen oder Wertpapiere kaufen lohnt sich wieder mehr.
   
 
-## Weitere Nachteile
+## <a name="nachteile"></a>Weitere Nachteile
 
 - (D1) Die organisatorische Umsetzung ist nicht ganz einfach. 
   Folgende Probleme müssen gelöst werden:
@@ -132,7 +147,7 @@ Hier die wichtigsten Auswirkungen:
      verlässlich überwachen.
 
 
-## Weitere Vorteile
+## <a name="vorteile"></a>Weitere Vorteile
 
 - (E1) Viele komplizierte Veränderungen werden der Selbstorganisation
   der Gesellschaft überlassen und müssen nicht unter großer Ungewissheit
@@ -146,8 +161,10 @@ Hier die wichtigsten Auswirkungen:
   verfallen lassen.
 
 
--------------------------------------------------------------------------------
+<footer>
+  {{ page.copyright }} &bull; 
+  [Impressum]({% link impressum.md %}) &bull; 
+  Letzte Änderung {{ lastchange }} &bull; 
+  [Änderungen]({{ page.commits }})
+</footer>
 
-[CC-BY](https://creativecommons.org/licenses/by/4.0/deed.de) Lutz Prechelt
-&nbsp;&nbsp;&nbsp;
-[Impressum](/impressum.md)

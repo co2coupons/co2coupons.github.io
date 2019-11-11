@@ -32,7 +32,14 @@ of the text; this would overwhelm my capacity, sorry.
 
 The proposal text is in the public domain.
 
-The theme used on the website is based on the 
-[Jekyll Minima theme](https://github.com/jekyll/minima).
+------------------------------------------------------------------------
+
+Infrastructure used:
+- https://jekyllrb.com
+- https://kramdown.gettalong.org/options.html
+- https://shopify.github.io/liquid/
+- https://www.prepostseo.com/favicon-generator
+
+
 
 ------------------------------------------------------------------------

@@ -1,1 +1,16 @@
-remote_theme: co2coupons/co2coupons.github.io
+remote_theme:    co2coupons/co2coupons.github.io
+encoding:        "utf-8"
+defaults:
+  -
+    scope:
+      path: ""  # all files
+      type: "pages"
+    values:
+      layout: "default"
+      copyright: "CC-BY Lutz Prechelt"
+      commits: "https://github.com/co2coupons/co2coupons.github.io/commits/master"
+permalink: /:title
+kramdown:
+  auto_ids:          false
+  parse_block_html:  true
+  parse_span_html:   true
