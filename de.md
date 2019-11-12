@@ -25,7 +25,7 @@ Inhalt:
   Wird der Temperaturanstieg nicht gestoppt, 
   drohen klimatische Veränderungen mit ernsten Folgen
   für die Menschheit.
-- (A2) Deshalb muss der jährliche weltweite Ausstoß von CO2 
+- (A2) Deshalb muss der jährliche weltweite Ausstoß von fossilem CO2 
   zügig bis auf Null gesenkt werden.
 - (A3) Darüber ist man weitgehend einig, trotzdem ist keine politische
   Einigung in Sicht, die das zuverlässig leisten wird.
@@ -43,7 +43,7 @@ Hier ist ein solcher Vorschlag für die EU-Ebene:
 
 ## <a name="vorschlag"></a>Lösungsvorschlag: CO2-Gutscheine
 
-- (B1) Die EU entscheidet gemeinsam, wie schnell der CO2-Ausstoß 
+- (B1) Wir entscheiden gemeinsam, wie schnell der CO2-Ausstoß 
   auf effektiv Null reduziert werden soll.
   Nehmen wir an, Start ist im Jahr 2022, Ende 2051;
   das wäre ein Zeitraum von 30 Jahren.
@@ -60,10 +60,11 @@ Hier ist ein solcher Vorschlag für die EU-Ebene:
   verfällt danach, wenn er nicht genutzt wird.
   Der Gutschein kann verkauft werden, allerdings nur einmal.
 - (B5) Wer fossile Energieträger, also Erdöl, Erdgas oder Kohle
+  (einschließlich Strom daraus)
   fördern oder importieren will, 
   muss die entsprechende Menge Gutscheine kaufen.
 - (B6) Auf welche Weise es möglich ist, durch negativen CO2-Ausstoß, 
-  also den Entzug von CO2 aus der Atmosphäre,
+  also den dauerhaften Entzug von CO2 aus der Atmosphäre,
   zusätzliche Gutscheine zu erschaffen, wird erst geregelt,
   wenn das Gutscheinsystem vier Jahre lang in Betrieb war.
   Anschließend wird geregelt, wie andere Treibhausgase 
@@ -76,8 +77,8 @@ Das war's schon.
 ## <a name="wirkungen"></a>Zu erwartende Auswirkungen
 
 Die Lösung ist fair, einfach und verständlich.
-Sie wird sehr vielen Leuten einleuchten und kann deshalb einen starken
-Rückhalt in der Bevölkerung bekommen. 
+**Sie wird sehr vielen Leuten einleuchten und kann deshalb einen starken
+Rückhalt in der Bevölkerung bekommen.**
 
 Hier die wichtigsten Auswirkungen:
 - (C1) Alles, was CO2-Ausstoß mit sich bringt, wird teurer,
@@ -96,7 +97,8 @@ Hier die wichtigsten Auswirkungen:
   CO2-Austoß bewirkt wird
   (Preisbildung, Marktwirtschaft, Verursacherprinzip), 
   ohne dass jemand alle Zusammenhänge vorher kennen müsste.
-  Die Bepreisung von CO2 passt sich von alleine an den Bedarf an.
+  Die Bepreisung von CO2 passt sich über den gesamten Zeitraum 
+  von alleine an den Bedarf an.
 - (C6) Durch die Bepreisung von CO2 direkt an der Quelle wird das 
   Verursacherprinzip wirksam; es gibt keine Schlupflöcher.
 - (C7) Durch die beschränkte Gültigkeitsdauer der Gutscheine
@@ -114,7 +116,7 @@ Hier die wichtigsten Auswirkungen:
     aber relativ, also als Anteil am BIP, ist die Exportquote nicht mal
     halb so groß wie im Weltdurchschnitt. Das liegt daran, dass durch
     die enorme Größe der EU der meiste Handel _innerhalb_ der EU erfolgt.
-    Dennoch bleibt dieser Punkt ein wichtiges Problem.
+    Dennoch stellt dieser Punkt die größte Hürde für den Vorschlag dar.
 - (C9) Einige Produkte werden viel teurer (z.B. Stahl und Zement) 
   und die wirtschaftliche Lage der Produzenten wird schwieriger.
   Zugleich verbessern sich die wirtschaftlichen Bedingungen für
@@ -126,21 +128,21 @@ Hier die wichtigsten Auswirkungen:
   Benzin- und Dieselmotoren).
 - (C10) Außerdem werden viele Dienstleistungen preiswerter im
   Vergleich zu Industrieprodukten, weil sie kaum fossile Energie
-  benötigen. Dadurch entstehen viele neue Arbeitsplätze, denn
-  Dienstleistungen sind viel arbeitsintensiver als Industrieprodukte.
+  benötigen. Dadurch entstehen neue Arbeitsplätze, denn viele
+  Dienstleistungen sind weitaus arbeitsintensiver als Industrieprodukte.
 - (C11) Insgesamt entsteht eine hohe wirtschaftliche Dynamik,
   weil viele neue Marktchancen entstehen und zugleich
   die Wirtschaftsakteure weit in die Zukunft blicken können,
   so dass das Risiko einer Investition für sie einschätzbar ist.
 - (C12) Durch die wirtschaftliche Dynamik wird mittelfristig der
-  Zins steigen. Sparen oder Wertpapiere kaufen lohnt sich wieder mehr.
+  Zins steigen. Sparen oder EU-Aktien Kaufen lohnt sich wieder mehr.
   
 
 **Weitere Nachteile:**
 
 - (D1) Die organisatorische Umsetzung ist nicht ganz einfach. 
   Folgende Probleme müssen gelöst werden:
-  1. Gutscheine an alle Mitglieder des Gemeinwesens ausgeben.
+  1. Gutscheine an alle Einwohner_innen ausgeben.
   2. Verkauf der Gutscheine über eine leicht zugängliche Börse ermöglichen.
   3. Förderung und Import der CO2-Träger Erdöl, Erdgas und Kohle
      verlässlich überwachen.
@@ -158,6 +160,8 @@ Hier die wichtigsten Auswirkungen:
   zu mildern und erwünschte zu fördern.
 - (E3) Wer meint, die Reduktion sei zu langsam, kann Gutscheine
   verfallen lassen.
+- (E4) Massen von Umweltgesetzgebung werden unnötig und können ersatzlos
+  abgeschafft werden.
 
 
 ## <a name="fazit"></a>Erfolgsaussichten
@@ -194,7 +198,8 @@ Hier ein paar Gesichtspunkte dazu:
   ([Quelle](https://en.wikipedia.org/wiki/Energy_policy_of_the_European_Union#Energy_sources),
   [Quelle](https://en.wikipedia.org/wiki/List_of_European_countries_by_coal_production)).
   Hinter diesen Industriezweigen stehen große Kapitalinteressen,
-  es sind aber nur mäßig viele Arbeitsplätze betroffen.
+  es sind aber nur mäßig viele Arbeitsplätze betroffen, 
+  am ehesten noch bei Kohle.
 - (F2) Die EU ist der größte Handelspartner für nicht weniger
   als 80 Länder der Welt
   ([Quelle](https://ec.europa.eu/trade/policy/eu-position-in-world-trade/)),
@@ -213,7 +218,7 @@ Hier ein paar Gesichtspunkte dazu:
   - China verfolgt im Innern bereits heute eine durchaus energische
     CO2-Einsparpolitik und baut Solarenergie, Windenergie, sowie
     Energiespar- und Luftreinhaltungsvorschriften zügig aus 
-    ([Quelle](https://en.wikipedia.org/wiki/Energy_policy_of_China)),
+    ([Quelle](https://en.wikipedia.org/wiki/Energy_policy_of_China)).
 - (F3) Beide dieser Probleme sind groß und schwierig zu lösen.
   Aber die EU ist der größte Handelsblock der Welt.
   Wenn irgend jemand das Exportproblem lösen kann, dann wir.
