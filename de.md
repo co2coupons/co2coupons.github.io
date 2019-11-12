@@ -15,10 +15,7 @@ Inhalt:
 1. [Wie es heute ist](#heute)
 1. [Lösungsvorschlag: CO2-Gutscheine](#vorschlag)
 1. [Zu erwartende Auswirkungen](#wirkungen)
-1. [Weitere Nachteile](#nachteile)
-1. [Weitere Vorteile](#vorteile)
-1. [Politische Lage in Deutschland](#parteien)
-1. [Erfolgsaussichten](#erfolgsaussicht)
+1. [Fazit](#fazit)
 
 
 ## <a name="heute"></a>Wie es heute ist
@@ -139,7 +136,7 @@ Hier die wichtigsten Auswirkungen:
   Zins steigen. Sparen oder Wertpapiere kaufen lohnt sich wieder mehr.
   
 
-## <a name="nachteile"></a>Weitere Nachteile
+**Weitere Nachteile:**
 
 - (D1) Die organisatorische Umsetzung ist nicht ganz einfach. 
   Folgende Probleme müssen gelöst werden:
@@ -149,7 +146,7 @@ Hier die wichtigsten Auswirkungen:
      verlässlich überwachen.
 
 
-## <a name="vorteile"></a>Weitere Vorteile
+**Weitere Vorteile:**
 
 - (E1) Viele komplizierte Veränderungen werden der Selbstorganisation
   der Gesellschaft überlassen und müssen nicht unter großer Ungewissheit
@@ -163,7 +160,10 @@ Hier die wichtigsten Auswirkungen:
   verfallen lassen.
 
 
-## <a name="parteien"></a>Politische Lage in Deutschland
+## <a name="fazit"></a>Fazit
+
+
+### <a name="parteien"></a>Politische Lage in Deutschland
 
 Wenn sich für das Exportproblem eine Lösung finden lässt (siehe unten),
 haben fast alle im Bundestag vertretenen Parteien gute Gründe,
@@ -176,7 +176,7 @@ die Lösung mit CO2-Gutscheinen zu begrüßen:
   an die Schwächeren einhergeht.
   
 
-## <a name="erfolgsaussicht"></a>Erfolgsaussichten
+### <a name="erfolgsaussicht"></a>Erfolgsaussichten
 
 Hat der Vorschlag Aussicht auf Erfolg?
 Es gibt innerhalb der EU wohl nur zwei große Hindernisse:
