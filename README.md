@@ -30,7 +30,11 @@ of the text; this would overwhelm my capacity, sorry.
 
 ------------------------------------------------------------------------
 
-The proposal text is in the public domain.
+Some interesting sources:
+- USA: https://www.bloomberg.com/graphics/2019-can-renewable-energy-power-the-world/
+- China: https://www.iea.org/weo/china/
+- USA: https://www.clcouncil.org/media/2017/03/The-Conservative-Case-for-Carbon-Dividends.pdf
+- World: https://en.wikipedia.org/wiki/General_Agreement_on_Tariffs_and_Trade
 
 ------------------------------------------------------------------------
 
