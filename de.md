@@ -207,8 +207,10 @@ Hier ein paar Gesichtspunkte dazu:
   Wie sind die Aussichten für eine Einführung in diesen Ländern?
   - Mit den USA ist eine Einigung wohl derzeit nicht zu erwarten.
   - Für Großbritannien scheint das schwierig vorherzusagen.
-  - China hat hingegen schon an anderer Stelle (Luftverschmutzung)
-    sehr entschlossen gehandelt, wenn es um große Umweltprobleme ging.
+  - China verfolgt im Innern bereits heute eine durchaus energische
+    CO2-Einsparpolitik und baut Solarenergie, Windenergie, sowie
+    Energiespar- und Luftreinhaltungsvorschriften zügig aus 
+    ([Quelle](https://en.wikipedia.org/wiki/Energy_policy_of_China)),
 - (F3) Beide dieser Probleme sind groß und schwierig zu lösen.
   Aber die EU ist der größte Handelsblock der Welt.
   Wenn irgend jemand das Exportproblem lösen kann, dann wir.
