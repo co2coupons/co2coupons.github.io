@@ -160,10 +160,13 @@ Hier die wichtigsten Auswirkungen:
   verfallen lassen.
 
 
-## <a name="fazit"></a>Fazit
+## <a name="fazit"></a>Erfolgsaussichten
+
+1. [in Deutschland](#parteien)
+1. [in der EU](#erfolgsaussicht)
 
 
-### <a name="parteien"></a>Politische Lage in Deutschland
+### <a name="parteien"></a>Erfolgsaussichten in Deutschland
 
 Wenn sich für das Exportproblem eine Lösung finden lässt (siehe unten),
 haben fast alle im Bundestag vertretenen Parteien gute Gründe,
@@ -176,7 +179,7 @@ die Lösung mit CO2-Gutscheinen zu begrüßen:
   an die Schwächeren einhergeht.
   
 
-### <a name="erfolgsaussicht"></a>Erfolgsaussichten
+### <a name="erfolgsaussicht"></a>Erfolgsaussichten in der EU
 
 Hat der Vorschlag Aussicht auf Erfolg?
 Es gibt innerhalb der EU wohl nur zwei große Hindernisse:
@@ -222,7 +225,6 @@ Hier ein paar Gesichtspunkte dazu:
 **Trauen wir uns was zu!**
 
 <footer>
-  {{ page.copyright }} &bull; 
   [Impressum]({% link impressum.md %}) &bull; 
   Letzte Änderung {{ page.lastchange }} &bull; 
   [Änderungen]({{ page.commits }})
