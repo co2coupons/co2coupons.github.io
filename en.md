@@ -170,7 +170,7 @@ Some considerations:
   the world's countries
   ([source](https://ec.europa.eu/trade/policy/eu-position-in-world-trade/)),
   so it has a strong negotiating position.
-  The main export destinations of the EU are the USA, Great Britain (soon) 
+  The main export destinations of the EU are the USA, Britain (soon) 
   and China. 
   Like the EU, the US and China are very large and therefore have 
   a much lower-than-average export quota (as a percentage of GDP), 
@@ -182,7 +182,7 @@ Some considerations:
   - But China is already pursuing a vigorous CO2-saving policy and is 
     rapidly expanding solar energy, wind energy, 
     as well as energy saving and air pollution regulations
-    ([Quelle](https://en.wikipedia.org/wiki/Energy_policy_of_China)).
+    ([source](https://en.wikipedia.org/wiki/Energy_policy_of_China)).
 - (F3) Both of these problems are big and difficult to solve.
   But then, the EU is the world's largest trading bloc.
   If anyone can solve the export problem, then it is the EU.
