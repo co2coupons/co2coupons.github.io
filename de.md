@@ -1,6 +1,6 @@
 ---
 layout:        default
-lastchange:    2019-11-11
+lastchange:    2019-11-12
 ---
 <header>
   [English]({% link en.md %}) &bull;  [Francais]({% link fr.md %})
@@ -17,6 +17,8 @@ Inhalt:
 1. [Zu erwartende Auswirkungen](#wirkungen)
 1. [Weitere Nachteile](#nachteile)
 1. [Weitere Vorteile](#vorteile)
+1. [Politische Lage in Deutschland](#parteien)
+1. [Erfolgsaussichten](#erfolgsaussicht)
 
 
 ## <a name="heute"></a>Wie es heute ist
@@ -100,7 +102,10 @@ Hier die wichtigsten Auswirkungen:
   Die Bepreisung von CO2 passt sich von alleine an den Bedarf an.
 - (C6) Durch die Bepreisung von CO2 direkt an der Quelle wird das 
   Verursacherprinzip wirksam; es gibt keine Schlupflöcher.
-- (C7) Wird die Lösung allerdings nicht weltweit gleichzeitig eingeführt, 
+- (C7) Durch die beschränkte Gültigkeitsdauer der Gutscheine
+  und den nur einmal erlaubten Verkauf sind kaum
+  Spekulationsgeschäfte möglich, die den Prozess stören würden.
+- (C8) Wird die Lösung allerdings nicht weltweit gleichzeitig eingeführt, 
   liefert sie Akteuren außerhalb der EU Wettbewerbsvorteile.
   - Für den _Import_ in die EU kann man das durch Zölle ausgleichen,
     die sich am geschätzten CO2-Ausstoß orientieren.
@@ -113,9 +118,6 @@ Hier die wichtigsten Auswirkungen:
     halb so groß wie im Weltdurchschnitt. Das liegt daran, dass durch
     die enorme Größe der EU der meiste Handel _innerhalb_ der EU erfolgt.
     Dennoch bleibt dieser Punkt ein wichtiges Problem.
-- (C8) Durch die beschränkte Gültigkeitsdauer der Gutscheine
-  und den nur einmal erlaubten Verkauf sind kaum
-  Spekulationsgeschäfte möglich, die den Prozess stören würden.
 - (C9) Einige Produkte werden viel teurer (z.B. Stahl und Zement) 
   und die wirtschaftliche Lage der Produzenten wird schwieriger.
   Zugleich verbessern sich die wirtschaftlichen Bedingungen für
@@ -160,6 +162,62 @@ Hier die wichtigsten Auswirkungen:
 - (E3) Wer meint, die Reduktion sei zu langsam, kann Gutscheine
   verfallen lassen.
 
+
+## <a name="parteien"></a>Politische Lage in Deutschland
+
+Wenn sich für das Exportproblem eine Lösung finden lässt (siehe unten),
+haben fast alle im Bundestag vertretenen Parteien gute Gründe,
+die Lösung mit CO2-Gutscheinen zu begrüßen:
+- Die Grünen deshalb, weil sie eine tatsächliche Lösung
+  des CO2-Problems verspricht anstatt nur die Hoffnung darauf.
+- CDU/CSU und FDP deshalb, weil sie eine neue Dynamik für die
+  Wirtschaft verspricht und große Chancen für Unternehmen.
+- SPD und LINKE deshalb, weil sie mit Umverteilung
+  an die Schwächeren einhergeht.
+  
+
+## <a name="erfolgsaussicht"></a>Erfolgsaussichten
+
+Hat der Vorschlag Aussicht auf Erfolg?
+Es gibt innerhalb der EU wohl nur zwei große Hindernisse:
+Die EU-interne Förderung fossiler Energieträger und 
+die Konkurrenzfähigkeit von Exporten.
+Sind die lösbar?
+Schwer zu sagen. 
+Hier ein paar Gesichtspunkte dazu:
+
+- (F1) Die EU produziert etwa 20% des in der EU verbrauchten Erdöls selbst,
+  etwa 40% des Erdgases und den größten Teil der Kohle.
+  ([Quelle](https://en.wikipedia.org/wiki/Energy_policy_of_the_European_Union#Energy_sources),
+  [Quelle](https://en.wikipedia.org/wiki/List_of_European_countries_by_coal_production)).
+  Hinter diesen Industriezweigen stehen große Kapitalinteressen,
+  es sind aber nur mäßig viele Arbeitsplätze betroffen.
+- (F2) Die EU ist der größte Handelspartner für nicht weniger
+  als 80 Länder der Welt
+  ([Quelle](https://ec.europa.eu/trade/policy/eu-position-in-world-trade/)),
+  hat also grundsätzlich eine starke Verhandlungsposition.
+  Die wichtigsten Exportziele der EU sind
+  USA, Großbritannien (in Kürze) und China.
+  Wie die EU sind USA und China sehr groß und haben deshalb eine weit
+  unterdurchschnittliche Exportquote (in Prozent des BIP),
+  so dass die gleiche Lösung mit CO2-Gutscheinen auch für sie 
+  in Frage kommen könnte.
+  Für Großbritannien könnte das aus anderen Gründen gelten, 
+  nämlich weil es eng mit der EU verbunden ist.
+  Wie sind die Aussichten für eine Einführung in diesen Ländern?
+  - Mit den USA ist eine Einigung wohl derzeit nicht zu erwarten.
+  - Für Großbritannien scheint das schwierig vorherzusagen.
+  - China hat hingegen schon an anderer Stelle (Luftverschmutzung)
+    sehr entschlossen gehandelt, wenn es um große Umweltprobleme ging.
+- (F3) Beide dieser Probleme sind groß und schwierig zu lösen.
+  Aber die EU ist der größte Handelsblock der Welt.
+  Wenn irgend jemand das Exportproblem lösen kann, dann wir.
+  Und die EU ist der Welt größte Konsensmaschine.
+  Ihre Fähigkeit, gemeinsame Interessen aufzudecken und mit
+  deren Hilfe widerstreitende Interessen auszugleichen, sind
+  in der restlichen Welt unerreicht.
+
+**Trauen wir uns was zu!**
 
 <footer>
   {{ page.copyright }} &bull; 
