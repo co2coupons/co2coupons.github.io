@@ -1,6 +1,6 @@
 ---
 layout:        default
-lastchange:    2019-11-12
+lastchange:    2019-11-13
 ---
 <header>
   [English]({% link en.md %}) &bull;  [Francais]({% link fr.md %})
@@ -39,7 +39,7 @@ denn das ist eilig, und alles andere erst anschließend regeln.
 Dazu braucht es einen Regelvorschlag, der für eine große Mehrheit
 akzeptabel ist.
 
-Hier ist ein solcher Vorschlag für die EU-Ebene:
+Hier ist ein solcher Vorschlag für die Ebene der Europäischen Union (EU):
 
 ## <a name="vorschlag"></a>Lösungsvorschlag: CO2-Gutscheine
 

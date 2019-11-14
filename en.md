@@ -1,6 +1,6 @@
 ---
 layout:        default
-lastchange:    2019-11-12
+lastchange:    2019-11-13
 ---
 <header>
   [Deutsch]({% link de.md %}) &bull;  [Francais]({% link fr.md %})
@@ -37,7 +37,7 @@ because that is urgent.
 Everything else should be tackled only then. 
 This requires a CO2 reduction proposal that makes sense to a large majority.
 
-Here is such a proposal for the EU.
+Here is such a proposal for the European Union (EU).
 
 
 ## <a name="proposal"></a>Solution proposal: CO2 vouchers
