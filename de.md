@@ -13,7 +13,7 @@ lastchange:    2019-11-17
 Was wir zur Lösung der Klimakrise tun _sollten_:
 
 - Ein jährlich sinkendes CO2-Gesamtbudget festlegen, 
-- jedem Menschen seinen Anteil daran als Gutschein geben und
+- jedem Menschen seinen Anteil daran als Gutschein geben, und
 - Firmen, die Erdöl, Erdgas oder Kohle (und somit CO2) in Umlauf bringen,
   müssen dafür diese Gutscheine kaufen.
 
@@ -39,7 +39,7 @@ Inhalt:
   auf Null reduziert werden soll.
   Zum Beispiel binnen 30 Jahren.
   **Jedes Jahr sinkt der erlaubte CO2-Ausstoß** um
-  ein dreißigstel (3,3%) des Anfangswerts.
+  ein Dreißigstel (3,3%) des Anfangswerts.
 - (C2) **Jeder Mensch behält** auch künftig **das gleiche Recht**, 
   CO2-Ausstoß zu bewirken,
   wie jeder andere Mensch (jung oder alt).  
@@ -98,10 +98,10 @@ wird die EU das auch machen.
 ### Ja, aber mein Arbeitsplatz hängt stark von CO2 ab!
 
 Das betrifft ein paar wenige Branchen (z.B. Stahl, Aluminium, Zement, Kohle).
-Wenn das Produkt schwer ersetzbar ist (wie Stahl, Aluminium oder Zement)
+Wenn das Produkt schwer ersetzbar ist (wie Stahl, Aluminium oder Zement),
 wird es zwar teurer, aber die meisten Arbeitsplätze bleiben erhalten.
 
-Wo tatsächlich massiv Arbeitsplätze verloren gehen hat die
+Wo tatsächlich massiv Arbeitsplätze verloren gehen, hat die
 Politik mehrere Jahre Zeit, ehrliche sozialverträgliche Lösungen zu finden.
 
 
