@@ -14,7 +14,7 @@ Was wir zur Lösung der Klimakrise tun _sollten_:
 
 - Ein jährlich sinkendes CO2-Gesamtbudget festlegen, 
 - jedem Menschen seinen Anteil daran als Gutschein geben und
-- die Firmen, die Erdöl, Erdgas oder Kohle (und somit CO2) in Umlauf bringen,
+- Firmen, die Erdöl, Erdgas oder Kohle (und somit CO2) in Umlauf bringen,
   müssen dafür diese Gutscheine kaufen.
 
 Viel mehr ist nicht nötig.
@@ -38,7 +38,7 @@ Inhalt:
 - (C1) Wir **entscheiden gemeinsam, wie schnell** der CO2-Ausstoß 
   auf Null reduziert werden soll.
   Zum Beispiel binnen 30 Jahren.
-  Jedes Jahr **sinkt** dann der erlaubte CO2-Ausstoß **jährlich** um
+  **Jedes Jahr sinkt der erlaubte CO2-Ausstoß** um
   ein dreißigstel (3,3%) des Anfangswerts.
 - (C2) **Jeder Mensch behält** auch künftig **das gleiche Recht**, 
   CO2-Ausstoß zu bewirken,
@@ -53,17 +53,25 @@ Inhalt:
   fördern oder importieren will, 
   **muss** die entsprechende Menge 
   **Gutscheine von mir oder jemand anderem kaufen**.  
-  Nur an dieser Stelle (Erdöl, Erdgas, Kohle) werden die Gutscheine benutzt.
+  Nur an dieser Stelle (Erdöl, Erdgas, Kohle)
+  werden die Gutscheine benutzt.
+  Das heißt, typischerweise würde ich einmal im Jahr meinen
+  Gutschein an ein Unternehmen verkaufen. 
+  Ich benötige selber die Gutscheine nicht, um z.B. Strom oder Benzin zu kaufen,
+  sondern das Unternehmen, das Erdöl oder Kohle fördert oder importiert
+  muss dafür dem Staat gegenüber die Gutscheine vorweisen. 
+  Es kann sie nur von Bürgerinnen und Bürgern bekommen.
 - (C4) Alles weitere passiert dann über Preise:
-  Jedes Produkt, das CO2-Ausstoß bewirkt, wird etwas teurer -- umso mehr,
-  je mehr CO2 "drinsteckt".  
-  Ich kann davon so viel verbrauchen wir ich will.
-  Wenn ich weniger verbrauche als der Durchschnitt, 
-  bleibt mir Geld übrig.
-  Verbrauche ich mehr als der Durchschnitt, 
-  kostet das mehr als mein Gutschein wert war.
+  Jedes Produkt, das CO2-Ausstoß bewirkt, wird etwas teurer (umso mehr,
+  je mehr CO2 "drinsteckt"), aber der Preisanstieg liegt nur daran,
+  dass die Hersteller CO2-Gutscheine kaufen mussten.  
+  Verbrauche ich also genauso viel CO2 wie der Durchschnitt der Bevölkerung, 
+  dann kostet mich Klimaschutz kein Geld.
+  Verbrauche ich weniger als der Durchschnitt, 
+  dann verdiene ich damit unter dem Strich sogar Geld. 
+  Nur, wenn ich mehr verbrauche als der Durchschnitt, zahle ich drauf.
   
-Einleuchtend?
+Einleuchtendes Verfahren, oder?
 
 **Dann sollten wir fordern, dass die Politik das so macht!**
 
@@ -78,7 +86,8 @@ Das tut sie ja schon fast.
 Ungefähr die Hälfte der CO2-Emissionen wird schon heute vom 
 EU-Emissionshandel (European Union Emissions Trading System, EU ETS)
 abgedeckt, bei dem CO2-Emittenten auch CO2-"Zertifikate" kaufen
-müssen -- nur dass die Erlöse beim Staat landen.
+müssen (oder zum Teil auch geschenkt bekommen!) -- nur dass die Erlöse 
+beim Staat landen.
 Die andere Hälfte der Emissionen soll künftig auch noch 
 in dieses System aufgenommen werden.
 

@@ -51,13 +51,22 @@ Content:
   Anyone who wants to produce or import **fossil energy** or fuels
   (crude oil, natural gas, or coal) 
   **must buy vouchers from me or somebody else** correspondingly.
+  That is the only way in which vouchers are used.
+  So I will typically sell my voucher to a company.
+  I do not need the voucher to buy e.g. electricity or fuel,
+  but the company needs it that produces (or imports) oil or coal.
+  It must show a corresponding amount of vouchers to the government
+  and can only get them from citizens.
 - (C4) Everything else is driven by prices:
   Any product requiring CO2 emissions will become a little more expensive
-  -- more if more CO2 is "in it".  
-  I can consume as much of such products as I want to.
-  If I consume less than the average person,
-  I will keep some of the voucher money.
-  If I consume more than average,
+  (more if more CO2 is "in it"), but the price increase is only due
+  to the voucher price.  
+  So if I consume just as much CO2 as the average person,
+  the price increases will amount to just the amount I got when
+  selling my voucher.
+  If I consume less CO2 than the average person,
+  I will keep some of my voucher money.
+  Only if I consume more than average,
   it will cost more than my voucher was worth.
 
 Sounds reasonable?
@@ -74,9 +83,10 @@ Yes, they almost do so already.
 
 About half of the EU's CO2 emissions are already covered
 by the European Union Emissions Trading System (EU ETS) today.
-ETS requires polluters to buy CO2 "certificates".
+ETS requires polluters to buy CO2 "certificates" (some of them
+are given away, not sold).
 The biggest difference to CO2 vouchers is that certificate proceeds
-are kept by the gouvernments.
+are kept by the governments.
 The other half of the emissions are planned to be included in ETS
 in later years.
 
