@@ -1,6 +1,6 @@
 ---
 layout:        default
-lastchange:    2019-11-17
+lastchange:    2019-12-22
 ---
 <header>
   [Deutsch]({% link de.md %}) &bull;  [Francais]({% link fr.md %})
@@ -31,7 +31,8 @@ That is a bad idea and we should stop it.
 Content:
 
 1. [Solution proposal: CO2 vouchers](#proposal)
-1. [Objections: Yes, but...](#yet-but)
+1. [Objections: Yes, but...](#yes-but)
+1. [Fundamental doubts: But...](#but)
 
 
 ## <a name="proposal"></a>Solution proposal: CO2 vouchers
@@ -123,13 +124,107 @@ the price difference for most products is too small to matter.
 Over time, more and more countries are likely to pick up the
 CO2 voucher system themselves and the problem will vanish.
 
+
+## <a name="but"></a>Fundamental doubts: But...
+
+### But is the current climate change man-made at all?
+
+We know fairly well how much coal, mineral oil, and natural gas we burn
+and how much CO2 is emitted as a result.
+The rise of CO2 concentration in the atmosphere matches these amounts well.
+The fact that CO2 is a greenhouse gas can be measured in the laboratory.
+We also have countless atmospheric measurements made by satellites
+and weather balloons.
+
+From all this, we can compute the expected amount of global warming.
+If we do not let short-term variations (such as the very warm year 1998)
+distract us, this expectation matches measured values well
+There is no doubt that the current global warming exists and is man-made.
+
+Global warming, however, is not the same as climate change.
+Climate change (which is happening continually since millions of years)
+is a still much more complex phenomenon with
+very many factors influencing it.
+So whether to call the current climate change man-made or not
+is to some degree a matter of taste.
+
+But there is no doubt that the current global warming is a main driver
+of the current climate change and that this climate change
+has dire consequences for humankind.
+
+References (Wikipedia):
+- [Greenhouse gas](https://en.wikipedia.org/wiki/Greenhouse_gas)
+- [Global warming (so far)](https://en.wikipedia.org/wiki/Global_warming#Observed_temperature_changes)
+
+
+### But aren't natural climate variations much larger?
+
+Indeed there was a time when global temperature was 12 degrees higher
+than it is today -- and that was definitely not man-made.  
+So are 2 or 3 degrees more than today a problem at all?  
+And does human activity make much of a difference?
+
+Well, those 12 degrees warmer than today were 50 million years ago.
+At that time, there were no people at all and the whole world looked
+_totally_ different from today.
+So from that we cannot learn anything about what 2 or 3 degrees warmer
+would mean for our modern world with its 8 billion people.
+For all we know, 3 degrees warmer would be a _huge_ problem.
+
+The most important factor here is time.
+If a climate change takes several thousand years to unfold,
+humankind can adapt to it gradually over a long time.
+For instance in the current geological era temperature changes similar
+to the once we are currently facing have occured many times,
+but that was in cycles of 41,000 or 100,000 years.
+The current, man-made half-cycle would be about half as large
+in terms of temperature, but given its length of about 100 years
+would be a hundred times faster.
+That is what makes the current situation so uniquely dangerous.
+
+References (Wikipedia):
+- [Climate history](https://en.wikipedia.org/wiki/Paleoclimatology)
+
+
+### But can't we solve this much more cheaply with new technology?
+
+Indeed, if the current rate of technical progress we have seen in the
+last 200 years continues for another 200 years, covering our
+energy needs without burning coal, oil, or gas will be a piece of cake.
+
+Unfortunately, that is not a solution, because:
+1. We cannot wait 200 years.
+   If we do not act now, the conflicts arising from climate change
+   may soon be so strong that they might rip apart our current civilisation.
+2. From a purely technical point of view, we could already
+   make enough energy with _current_ solar technology without using any
+   coal, oil, or gas.
+   A small fraction of the world's desert areas would be sufficient.
+   Alas, the amount of financial capital needed to do make this happen and the
+   geopolitical risks involved are very high;
+   see for instance the failed Desertec project.
+   We need to smooth the transition into a CO2-neutral future
+   by attaching a price to CO2 emission.
+3. Any CO2 emission produces a temperature increase for about
+   a decade before the earth system reaches a new temperature equilibrium.
+   CO2 stays in the atmosphere (and has a greenhouse effect)
+   for several centuries.
+   So any technical progress will not have its full effect immediately,
+   which is another reason why we must currently use all available methods
+   to limit global warming.
+
+References (Wikipedia):
+- [Climate change and conflict](https://en.wikipedia.org/wiki/Climate_security#Conflicts) (regarding 1.)
+- [Desertec](https://en.wikipedia.org/wiki/Desertec) (regarding 2.)
+- [Greenhouse gas](https://en.wikipedia.org/wiki/Greenhouse_gas#Atmospheric_lifetime) (regarding 3.)
+
 &nbsp;
 
 -----------
 
 &nbsp;
 
-**Like it? Then make your voice heard!**
+**Like the [proposal](#proposal)? Then make your voice heard!**
 
 Discuss on Twitter: [@CO2Coupons](https://twitter.com/CO2Coupons)
 
